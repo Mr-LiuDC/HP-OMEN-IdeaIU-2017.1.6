@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Mr-LiuDC/gradle-multiple-module.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:codpra/spring-boot-tech.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\dev\code\IdeaProjects\spring-boot" />
