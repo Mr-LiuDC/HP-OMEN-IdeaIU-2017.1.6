@@ -26,8 +26,12 @@
           <option name="url" value="http://git.suifangyun.com/Shangyi.OpenPlatform" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Mr-LiuDC/all-in-spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\dev\projects\gerrit.suifangyun.com\" />
+    <option name="cloneParentDir" value="E:\dev\code\GitHub\" />
   </component>
 </application>
