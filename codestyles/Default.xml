@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <Properties>
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
+</code_scheme>
