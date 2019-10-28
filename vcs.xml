@@ -10,6 +10,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="442823529@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.suifangyun.com" />
+          <option name="userName" value="liudecai" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\ProgramData\Temp\Development\Code\gerrit.suifangyun.com" />
