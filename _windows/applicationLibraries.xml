@@ -129,5 +129,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="jdk1.8">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Java/jdk1.8.0_212" />
+      </SOURCES>
+      <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_212" recursive="false" type="SOURCES" />
+    </library>
   </component>
 </application>
