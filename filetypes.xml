@@ -9,6 +9,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
