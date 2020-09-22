@@ -9,7 +9,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="conf" type="nginx" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
