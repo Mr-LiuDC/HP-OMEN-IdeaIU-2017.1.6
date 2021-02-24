@@ -137,7 +137,7 @@
       </SOURCES>
       <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_212" recursive="false" type="SOURCES" />
     </library>
-    <library name="Python 3.6 (python3_machine_learning) interpreter library">
+    <library name="Python 3.8 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/python3_machine_learning/DLLs" />
         <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/python3_machine_learning/Lib" />
