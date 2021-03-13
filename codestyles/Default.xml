@@ -3,4 +3,8 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+  </XML>
 </code_scheme>
