@@ -1,0 +1,112 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>SecurityLintAndroid</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/Program Files/Git/bin/bash.exe" />
+        <property name="project.structure.last.edited" value="SDK Location" />
+        <property name="project.structure.proportion" value="0.17" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="ShConfigurationType">
+          <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+          <option name="SCRIPT_PATH" value="" />
+          <option name="SCRIPT_OPTIONS" value="" />
+          <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+          <option name="SCRIPT_WORKING_DIRECTORY" value="" />
+          <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+          <option name="INTERPRETER_PATH" value="C:/Program Files/Git/bin/bash.exe" />
+          <option name="INTERPRETER_OPTIONS" value="" />
+          <option name="EXECUTE_IN_TERMINAL" value="true" />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\decai\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Python 3.8 (python38_tensorflow_cpu) interpreter library</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
