@@ -1,3 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <Properties>
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
 </code_scheme>
